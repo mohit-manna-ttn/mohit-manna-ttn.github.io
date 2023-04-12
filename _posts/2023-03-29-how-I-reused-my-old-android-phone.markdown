@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I reused my old android phone"
+title:  "How I reused my old android phone to host a website"
 date:   2023-03-29 11:24:28 +0530
 categories: flask, ubuntu, android
 ---
